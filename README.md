@@ -2,6 +2,7 @@
 ### Report: <https://computervision-2016-spring.github.io/FaceDetection/>
 ### HKUST COMP5421 Project2
 [Project Page](https://course.cs.ust.hk/comp5421/Password_Only/projects/faces/index.html) (You may need a HKUST CSD to login to the page)  
+There is a PDF version in this repo.  
 ### Project Description 
 The sliding window model is conceptually simple: independently classify all image patches as being object or non-object. Sliding window classification is the dominant paradigm in object detection and for one object category in particular -- faces -- it is one of the most noticeable successes of computer vision.  
   
